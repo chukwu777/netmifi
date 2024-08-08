@@ -153,6 +153,9 @@
 }
 
 @layer utilities {
+  .margin-y {
+    @apply md:my-14 my-8;
+  }
   .padding {
     @apply md:px-8 px-4 md:py-14 py-8;
   }

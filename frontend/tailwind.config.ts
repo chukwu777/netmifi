@@ -17,13 +17,13 @@ const twConfig = {
         "2xl": "1400px",
       },
     },
-    screens: {
-      xs: { max: "600px" },
-      sm: "600px",
-      md: "768px",
-      lg: "992px",
-      xl: "1200px",
-    },
+    // screens: {
+    //   xs: { max: "600px" },
+    //   sm: "600px",
+    //   md: "768px",
+    //   lg: "992px",
+    //   xl: "1200px",
+    // },
     extend: {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"], // Heading/important font
